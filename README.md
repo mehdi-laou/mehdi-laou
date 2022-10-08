@@ -1,4 +1,4 @@
-- 👋 Bonjour, Je m'appelle @mehdi-laou
+- 👋 Bonjour, Je m'appelle Mehdi Laouini (@mehdi-laou)
 - 👀 Je m'intéresse aux technologies éducatives
 - 👨‍🎓 Diplômé du Bachelor en Sciences de l'éducation, à l'Université de Genève
 - 🌱 Actuellement étudiant au Master MALTT à l'Université de Genève
